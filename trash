@@ -1,0 +1,4 @@
+ <li className="flex gap-4">
+                <img className="w-6 h-6" src={homeIcon}></img>
+                <a href="">Inicio</a>
+              </li>
