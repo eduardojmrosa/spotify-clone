@@ -3,7 +3,9 @@ module.exports = {
   content: ["./src/**/*.tsx"],
 
   theme: {
-    extend: {},
+    extend: {
+      "dm-sans": ["DM-Sans", "sans-serif"],
+    },
   },
   plugins: [],
 };
