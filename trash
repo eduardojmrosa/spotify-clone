@@ -2,3 +2,7 @@
                 <img className="w-6 h-6" src={homeIcon}></img>
                 <a href="">Inicio</a>
               </li>
+
+
+
+              opacity-25 bg-zinc-600 hover:bg-zinc-400 transition-all w-80 h-20 rounded-md  z-10
